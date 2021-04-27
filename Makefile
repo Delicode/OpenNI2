@@ -54,9 +54,7 @@ ALL_CORE_PROJS = \
 	$(XNLIB)  \
 	$(OPENNI) \
 	$(DEPTH_UTILS) \
-	$(ALL_DRIVERS) \
-	$(ALL_WRAPPERS) \
-	$(ALL_TOOLS)
+	$(ALL_DRIVERS)
 
 # list all samples
 CORE_SAMPLES = \
